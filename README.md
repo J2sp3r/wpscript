@@ -1,2 +1,0 @@
-# wpscript
-Harjutamine
